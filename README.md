@@ -1,6 +1,6 @@
-# Build LLM Apps with LangChain
+# Build Powerful LLM Apps with LangChain, HayStack and LlamaIndex
 
-Welcome to Build LLM Apps with LangChain, your gateway to creating powerful applications using Large Language Models (LLMs) powered by LangChain technology.
+Welcome to Build LLM Apps with LangChain, HayStack and LlamaIndex, your gateway to creating powerful applications using Large Language Models (LLMs) powered by LangChain technology.
 
 ## Overview
 
